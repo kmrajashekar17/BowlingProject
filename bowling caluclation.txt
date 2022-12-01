@@ -1,0 +1,25 @@
+ListScore1  ListScore2
+
+1+4 													        5
+
+4+5  													9+5 =  14
+
+6+4(spare)	  	   					+5(next frame 1st ball score)=		15+14= 29
+
+5+5(spare) 							+10(next frame 1st ball score)		20+29= 49
+
+10(strike)						     +1(next frame 1st ball and 2nd ball score (0+1))= 60
+
+0+1 													     = 61
+
+7+3(spare)						                 +6(next frame 1st ball score)=16+61 = 77
+
+6+4(spare)								 +10(next frame 1st ball score)=20+77= 97
+
+10(strike)					     +10(next frame 1st ball and 2nd ball score (2+8))=20+97= 117		
+
+last frame(10th frame)	
+2+8(spare)					 		      +get extra ball and he scores 6=16+117= 133					   
+ 
+10 
+
